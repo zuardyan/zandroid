@@ -8,6 +8,16 @@ export.cfg
 export_credentials.cfg
 *.tmp
 
+# Android custom build template (installed by editor, regenerated from engine)
+android/
+
+# Plugin APK output (set via APK_OUTPUT in the launcher dock)
+build/
+
+# APKs / AABs anywhere
+*.apk
+*.aab
+
 # Imported translations (automatically generated from CSV files)
 *.translation
 
