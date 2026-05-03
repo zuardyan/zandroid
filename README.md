@@ -4,6 +4,14 @@ A Godot 4 editor plugin that builds, installs, and launches your project on an A
 
 > Stop alt-tabbing to a terminal to run `adb install` and `adb shell am start`. This plugin wires it all into a dock panel.
 
+---
+
+### 💎 Need faster iteration? Try [Zandroid Pro](https://zuardyan.itch.io/zandroid-pro)
+
+This plugin **deploys** to a real Android emulator (slow but accurate). For **design iteration** — switching between iPhone, iPad, and Android form factors instantly without booting any emulator — grab **[Zandroid Pro](https://zuardyan.itch.io/zandroid-pro)** on Itch.io. 57 device presets, safe-area overlay, notch / Dynamic Island visualization, and zero Android SDK / Xcode / Mac requirements. Designed to coexist with this free plugin.
+
+---
+
 ## Features
 
 - Auto-detects your Android SDK from `ANDROID_HOME` / `ANDROID_SDK_ROOT` or the default install path
